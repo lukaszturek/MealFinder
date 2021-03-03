@@ -1,0 +1,14 @@
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\obj\Debug\netcoreapp3.1\MealFinder.csprojAssemblyReference.cache
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\obj\Debug\netcoreapp3.1\MealFinder.AssemblyInfoInputs.cache
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\obj\Debug\netcoreapp3.1\MealFinder.AssemblyInfo.cs
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\obj\Debug\netcoreapp3.1\MealFinder.csproj.CoreCompileInputs.cache
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\bin\Debug\netcoreapp3.1\MealFinder.exe
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\bin\Debug\netcoreapp3.1\MealFinder.deps.json
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\bin\Debug\netcoreapp3.1\MealFinder.runtimeconfig.json
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\bin\Debug\netcoreapp3.1\MealFinder.runtimeconfig.dev.json
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\bin\Debug\netcoreapp3.1\MealFinder.dll
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\bin\Debug\netcoreapp3.1\MealFinder.pdb
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\obj\Debug\netcoreapp3.1\MealFinder.dll
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\obj\Debug\netcoreapp3.1\MealFinder.pdb
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\obj\Debug\netcoreapp3.1\MealFinder.genruntimeconfig.cache
+D:\Łukasz\Programowanie\C#\Projects\MealFinder\MealFinder\bin\Debug\netcoreapp3.1\files\Meal.txt
